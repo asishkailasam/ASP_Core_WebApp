@@ -8,3 +8,5 @@
    ![Image alt](https://github.com/asishkailasam/ASP_Core_WebApp/blob/aa69c58bef4757e96b494d9a51bd0a490242c529/view%203.png)
 4. Edit
    ![Image alt](https://github.com/asishkailasam/ASP_Core_WebApp/blob/9430952b37348db63d39deb0817d4848afd34c60/edit%204.png)
+5. Edit List
+   ![Image alt](https://github.com/asishkailasam/ASP_Core_WebApp/blob/9604f990587cfc112b53eec54cf35d86a1d43bb9/Edit%20list%205.png)
