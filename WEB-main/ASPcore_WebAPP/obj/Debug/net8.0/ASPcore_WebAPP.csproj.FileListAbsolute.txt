@@ -1,0 +1,117 @@
+C:\Users\ACER\Desktop\ExamWithMySql\Core With Mysql\MvcCore_Web\ASPcore_WebAPP\ASPcore_WebAPP\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ACER\Desktop\ExamWithMySql\Core With Mysql\MvcCore_Web\ASPcore_WebAPP\ASPcore_WebAPP\bin\Debug\net8.0\appsettings.json
+C:\Users\ACER\Desktop\ExamWithMySql\Core With Mysql\MvcCore_Web\ASPcore_WebAPP\ASPcore_WebAPP\bin\Debug\net8.0\ASPcore_WebAPP.staticwebassets.runtime.json
+C:\Users\ACER\Desktop\ExamWithMySql\Core With Mysql\MvcCore_Web\ASPcore_WebAPP\ASPcore_WebAPP\bin\Debug\net8.0\ASPcore_WebAPP.staticwebassets.endpoints.json
+C:\Users\ACER\Desktop\ExamWithMySql\Core With Mysql\MvcCore_Web\ASPcore_WebAPP\ASPcore_WebAPP\bin\Debug\net8.0\ASPcore_WebAPP.exe
+C:\Users\ACER\Desktop\ExamWithMySql\Core With Mysql\MvcCore_Web\ASPcore_WebAPP\ASPcore_WebAPP\bin\Debug\net8.0\ASPcore_WebAPP.deps.json
+C:\Users\ACER\Desktop\ExamWithMySql\Core With Mysql\MvcCore_Web\ASPcore_WebAPP\ASPcore_WebAPP\bin\Debug\net8.0\ASPcore_WebAPP.runtimeconfig.json
+C:\Users\ACER\Desktop\ExamWithMySql\Core With Mysql\MvcCore_Web\ASPcore_WebAPP\ASPcore_WebAPP\bin\Debug\net8.0\ASPcore_WebAPP.dll
+C:\Users\ACER\Desktop\ExamWithMySql\Core With Mysql\MvcCore_Web\ASPcore_WebAPP\ASPcore_WebAPP\bin\Debug\net8.0\ASPcore_WebAPP.pdb
+C:\Users\ACER\Desktop\ExamWithMySql\Core With Mysql\MvcCore_Web\ASPcore_WebAPP\ASPcore_WebAPP\obj\Debug\net8.0\ASPcore_WebAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\ExamWithMySql\Core With Mysql\MvcCore_Web\ASPcore_WebAPP\ASPcore_WebAPP\obj\Debug\net8.0\ASPcore_WebAPP.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\ExamWithMySql\Core With Mysql\MvcCore_Web\ASPcore_WebAPP\ASPcore_WebAPP\obj\Debug\net8.0\ASPcore_WebAPP.AssemblyInfo.cs
+C:\Users\ACER\Desktop\ExamWithMySql\Core With Mysql\MvcCore_Web\ASPcore_WebAPP\ASPcore_WebAPP\obj\Debug\net8.0\ASPcore_WebAPP.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\ExamWithMySql\Core With Mysql\MvcCore_Web\ASPcore_WebAPP\ASPcore_WebAPP\obj\Debug\net8.0\ASPcore_WebAPP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ACER\Desktop\ExamWithMySql\Core With Mysql\MvcCore_Web\ASPcore_WebAPP\ASPcore_WebAPP\obj\Debug\net8.0\ASPcore_WebAPP.RazorAssemblyInfo.cache
+C:\Users\ACER\Desktop\ExamWithMySql\Core With Mysql\MvcCore_Web\ASPcore_WebAPP\ASPcore_WebAPP\obj\Debug\net8.0\ASPcore_WebAPP.RazorAssemblyInfo.cs
+C:\Users\ACER\Desktop\ExamWithMySql\Core With Mysql\MvcCore_Web\ASPcore_WebAPP\ASPcore_WebAPP\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ACER\Desktop\ExamWithMySql\Core With Mysql\MvcCore_Web\ASPcore_WebAPP\ASPcore_WebAPP\obj\Debug\net8.0\scopedcss\bundle\ASPcore_WebAPP.styles.css
+C:\Users\ACER\Desktop\ExamWithMySql\Core With Mysql\MvcCore_Web\ASPcore_WebAPP\ASPcore_WebAPP\obj\Debug\net8.0\scopedcss\projectbundle\ASPcore_WebAPP.bundle.scp.css
+C:\Users\ACER\Desktop\ExamWithMySql\Core With Mysql\MvcCore_Web\ASPcore_WebAPP\ASPcore_WebAPP\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ACER\Desktop\ExamWithMySql\Core With Mysql\MvcCore_Web\ASPcore_WebAPP\ASPcore_WebAPP\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ACER\Desktop\ExamWithMySql\Core With Mysql\MvcCore_Web\ASPcore_WebAPP\ASPcore_WebAPP\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\ACER\Desktop\ExamWithMySql\Core With Mysql\MvcCore_Web\ASPcore_WebAPP\ASPcore_WebAPP\obj\Debug\net8.0\staticwebassets\msbuild.ASPcore_WebAPP.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ACER\Desktop\ExamWithMySql\Core With Mysql\MvcCore_Web\ASPcore_WebAPP\ASPcore_WebAPP\obj\Debug\net8.0\staticwebassets\msbuild.ASPcore_WebAPP.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\ACER\Desktop\ExamWithMySql\Core With Mysql\MvcCore_Web\ASPcore_WebAPP\ASPcore_WebAPP\obj\Debug\net8.0\staticwebassets\msbuild.build.ASPcore_WebAPP.props
+C:\Users\ACER\Desktop\ExamWithMySql\Core With Mysql\MvcCore_Web\ASPcore_WebAPP\ASPcore_WebAPP\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ASPcore_WebAPP.props
+C:\Users\ACER\Desktop\ExamWithMySql\Core With Mysql\MvcCore_Web\ASPcore_WebAPP\ASPcore_WebAPP\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ASPcore_WebAPP.props
+C:\Users\ACER\Desktop\ExamWithMySql\Core With Mysql\MvcCore_Web\ASPcore_WebAPP\ASPcore_WebAPP\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ACER\Desktop\ExamWithMySql\Core With Mysql\MvcCore_Web\ASPcore_WebAPP\ASPcore_WebAPP\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\ACER\Desktop\ExamWithMySql\Core With Mysql\MvcCore_Web\ASPcore_WebAPP\ASPcore_WebAPP\obj\Debug\net8.0\ASPcore_WebAPP.dll
+C:\Users\ACER\Desktop\ExamWithMySql\Core With Mysql\MvcCore_Web\ASPcore_WebAPP\ASPcore_WebAPP\obj\Debug\net8.0\refint\ASPcore_WebAPP.dll
+C:\Users\ACER\Desktop\ExamWithMySql\Core With Mysql\MvcCore_Web\ASPcore_WebAPP\ASPcore_WebAPP\obj\Debug\net8.0\ASPcore_WebAPP.pdb
+C:\Users\ACER\Desktop\ExamWithMySql\Core With Mysql\MvcCore_Web\ASPcore_WebAPP\ASPcore_WebAPP\obj\Debug\net8.0\ASPcore_WebAPP.genruntimeconfig.cache
+C:\Users\ACER\Desktop\ExamWithMySql\Core With Mysql\MvcCore_Web\ASPcore_WebAPP\ASPcore_WebAPP\obj\Debug\net8.0\ref\ASPcore_WebAPP.dll
+C:\Users\ACER\Desktop\ExamWithMySql\Core With Mysql\MvcCore_Web\ASPcore_WebAPP\ASPcore_WebAPP\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+C:\Users\ACER\Desktop\ExamWithMySql\Core With Mysql\MvcCore_Web\ASPcore_WebAPP\ASPcore_WebAPP\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\ACER\Desktop\ExamWithMySql\Core With Mysql\MvcCore_Web\ASPcore_WebAPP\ASPcore_WebAPP\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\ACER\Desktop\ExamWithMySql\Core With Mysql\MvcCore_Web\ASPcore_WebAPP\ASPcore_WebAPP\obj\Debug\net8.0\ASPcore_WebAPP.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\ExamWithMySql\Core With Mysql\MvcCore_Web\ASPcore_WebAPP\ASPcore_WebAPP\obj\Debug\net8.0\ASPcore_.EBE2A209.Up2Date
+C:\Users\ACER\Downloads\WEB11-main\WEB11-main\ASPcore_WebAPP\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ACER\Downloads\WEB11-main\WEB11-main\ASPcore_WebAPP\bin\Debug\net8.0\appsettings.json
+C:\Users\ACER\Downloads\WEB11-main\WEB11-main\ASPcore_WebAPP\bin\Debug\net8.0\ASPcore_WebAPP.staticwebassets.runtime.json
+C:\Users\ACER\Downloads\WEB11-main\WEB11-main\ASPcore_WebAPP\bin\Debug\net8.0\ASPcore_WebAPP.staticwebassets.endpoints.json
+C:\Users\ACER\Downloads\WEB11-main\WEB11-main\ASPcore_WebAPP\bin\Debug\net8.0\ASPcore_WebAPP.exe
+C:\Users\ACER\Downloads\WEB11-main\WEB11-main\ASPcore_WebAPP\bin\Debug\net8.0\ASPcore_WebAPP.deps.json
+C:\Users\ACER\Downloads\WEB11-main\WEB11-main\ASPcore_WebAPP\bin\Debug\net8.0\ASPcore_WebAPP.runtimeconfig.json
+C:\Users\ACER\Downloads\WEB11-main\WEB11-main\ASPcore_WebAPP\bin\Debug\net8.0\ASPcore_WebAPP.dll
+C:\Users\ACER\Downloads\WEB11-main\WEB11-main\ASPcore_WebAPP\bin\Debug\net8.0\ASPcore_WebAPP.pdb
+C:\Users\ACER\Downloads\WEB11-main\WEB11-main\ASPcore_WebAPP\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+C:\Users\ACER\Downloads\WEB11-main\WEB11-main\ASPcore_WebAPP\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\ACER\Downloads\WEB11-main\WEB11-main\ASPcore_WebAPP\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\ACER\Downloads\WEB11-main\WEB11-main\ASPcore_WebAPP\obj\Debug\net8.0\ASPcore_WebAPP.csproj.AssemblyReference.cache
+C:\Users\ACER\Downloads\WEB11-main\WEB11-main\ASPcore_WebAPP\obj\Debug\net8.0\ASPcore_WebAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Downloads\WEB11-main\WEB11-main\ASPcore_WebAPP\obj\Debug\net8.0\ASPcore_WebAPP.AssemblyInfoInputs.cache
+C:\Users\ACER\Downloads\WEB11-main\WEB11-main\ASPcore_WebAPP\obj\Debug\net8.0\ASPcore_WebAPP.AssemblyInfo.cs
+C:\Users\ACER\Downloads\WEB11-main\WEB11-main\ASPcore_WebAPP\obj\Debug\net8.0\ASPcore_WebAPP.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Downloads\WEB11-main\WEB11-main\ASPcore_WebAPP\obj\Debug\net8.0\ASPcore_WebAPP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ACER\Downloads\WEB11-main\WEB11-main\ASPcore_WebAPP\obj\Debug\net8.0\ASPcore_WebAPP.RazorAssemblyInfo.cache
+C:\Users\ACER\Downloads\WEB11-main\WEB11-main\ASPcore_WebAPP\obj\Debug\net8.0\ASPcore_WebAPP.RazorAssemblyInfo.cs
+C:\Users\ACER\Downloads\WEB11-main\WEB11-main\ASPcore_WebAPP\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ACER\Downloads\WEB11-main\WEB11-main\ASPcore_WebAPP\obj\Debug\net8.0\scopedcss\bundle\ASPcore_WebAPP.styles.css
+C:\Users\ACER\Downloads\WEB11-main\WEB11-main\ASPcore_WebAPP\obj\Debug\net8.0\scopedcss\projectbundle\ASPcore_WebAPP.bundle.scp.css
+C:\Users\ACER\Downloads\WEB11-main\WEB11-main\ASPcore_WebAPP\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ACER\Downloads\WEB11-main\WEB11-main\ASPcore_WebAPP\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ACER\Downloads\WEB11-main\WEB11-main\ASPcore_WebAPP\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\ACER\Downloads\WEB11-main\WEB11-main\ASPcore_WebAPP\obj\Debug\net8.0\staticwebassets\msbuild.ASPcore_WebAPP.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ACER\Downloads\WEB11-main\WEB11-main\ASPcore_WebAPP\obj\Debug\net8.0\staticwebassets\msbuild.ASPcore_WebAPP.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\ACER\Downloads\WEB11-main\WEB11-main\ASPcore_WebAPP\obj\Debug\net8.0\staticwebassets\msbuild.build.ASPcore_WebAPP.props
+C:\Users\ACER\Downloads\WEB11-main\WEB11-main\ASPcore_WebAPP\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ASPcore_WebAPP.props
+C:\Users\ACER\Downloads\WEB11-main\WEB11-main\ASPcore_WebAPP\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ASPcore_WebAPP.props
+C:\Users\ACER\Downloads\WEB11-main\WEB11-main\ASPcore_WebAPP\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ACER\Downloads\WEB11-main\WEB11-main\ASPcore_WebAPP\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\ACER\Downloads\WEB11-main\WEB11-main\ASPcore_WebAPP\obj\Debug\net8.0\ASPcore_.EBE2A209.Up2Date
+C:\Users\ACER\Downloads\WEB11-main\WEB11-main\ASPcore_WebAPP\obj\Debug\net8.0\ASPcore_WebAPP.dll
+C:\Users\ACER\Downloads\WEB11-main\WEB11-main\ASPcore_WebAPP\obj\Debug\net8.0\refint\ASPcore_WebAPP.dll
+C:\Users\ACER\Downloads\WEB11-main\WEB11-main\ASPcore_WebAPP\obj\Debug\net8.0\ASPcore_WebAPP.pdb
+C:\Users\ACER\Downloads\WEB11-main\WEB11-main\ASPcore_WebAPP\obj\Debug\net8.0\ASPcore_WebAPP.genruntimeconfig.cache
+C:\Users\ACER\Downloads\WEB11-main\WEB11-main\ASPcore_WebAPP\obj\Debug\net8.0\ref\ASPcore_WebAPP.dll
+C:\Users\ACER\Downloads\WEB-main\WEB-main\ASPcore_WebAPP\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ACER\Downloads\WEB-main\WEB-main\ASPcore_WebAPP\bin\Debug\net8.0\appsettings.json
+C:\Users\ACER\Downloads\WEB-main\WEB-main\ASPcore_WebAPP\bin\Debug\net8.0\ASPcore_WebAPP.staticwebassets.endpoints.json
+C:\Users\ACER\Downloads\WEB-main\WEB-main\ASPcore_WebAPP\bin\Debug\net8.0\ASPcore_WebAPP.staticwebassets.runtime.json
+C:\Users\ACER\Downloads\WEB-main\WEB-main\ASPcore_WebAPP\bin\Debug\net8.0\ASPcore_WebAPP.exe
+C:\Users\ACER\Downloads\WEB-main\WEB-main\ASPcore_WebAPP\bin\Debug\net8.0\ASPcore_WebAPP.deps.json
+C:\Users\ACER\Downloads\WEB-main\WEB-main\ASPcore_WebAPP\bin\Debug\net8.0\ASPcore_WebAPP.runtimeconfig.json
+C:\Users\ACER\Downloads\WEB-main\WEB-main\ASPcore_WebAPP\bin\Debug\net8.0\ASPcore_WebAPP.dll
+C:\Users\ACER\Downloads\WEB-main\WEB-main\ASPcore_WebAPP\bin\Debug\net8.0\ASPcore_WebAPP.pdb
+C:\Users\ACER\Downloads\WEB-main\WEB-main\ASPcore_WebAPP\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+C:\Users\ACER\Downloads\WEB-main\WEB-main\ASPcore_WebAPP\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\ACER\Downloads\WEB-main\WEB-main\ASPcore_WebAPP\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\ACER\Downloads\WEB-main\WEB-main\ASPcore_WebAPP\obj\Debug\net8.0\ASPcore_WebAPP.csproj.AssemblyReference.cache
+C:\Users\ACER\Downloads\WEB-main\WEB-main\ASPcore_WebAPP\obj\Debug\net8.0\ASPcore_WebAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Downloads\WEB-main\WEB-main\ASPcore_WebAPP\obj\Debug\net8.0\ASPcore_WebAPP.AssemblyInfoInputs.cache
+C:\Users\ACER\Downloads\WEB-main\WEB-main\ASPcore_WebAPP\obj\Debug\net8.0\ASPcore_WebAPP.AssemblyInfo.cs
+C:\Users\ACER\Downloads\WEB-main\WEB-main\ASPcore_WebAPP\obj\Debug\net8.0\ASPcore_WebAPP.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Downloads\WEB-main\WEB-main\ASPcore_WebAPP\obj\Debug\net8.0\ASPcore_WebAPP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ACER\Downloads\WEB-main\WEB-main\ASPcore_WebAPP\obj\Debug\net8.0\ASPcore_WebAPP.RazorAssemblyInfo.cache
+C:\Users\ACER\Downloads\WEB-main\WEB-main\ASPcore_WebAPP\obj\Debug\net8.0\ASPcore_WebAPP.RazorAssemblyInfo.cs
+C:\Users\ACER\Downloads\WEB-main\WEB-main\ASPcore_WebAPP\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ACER\Downloads\WEB-main\WEB-main\ASPcore_WebAPP\obj\Debug\net8.0\scopedcss\bundle\ASPcore_WebAPP.styles.css
+C:\Users\ACER\Downloads\WEB-main\WEB-main\ASPcore_WebAPP\obj\Debug\net8.0\scopedcss\projectbundle\ASPcore_WebAPP.bundle.scp.css
+C:\Users\ACER\Downloads\WEB-main\WEB-main\ASPcore_WebAPP\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ACER\Downloads\WEB-main\WEB-main\ASPcore_WebAPP\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ACER\Downloads\WEB-main\WEB-main\ASPcore_WebAPP\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\ACER\Downloads\WEB-main\WEB-main\ASPcore_WebAPP\obj\Debug\net8.0\staticwebassets\msbuild.ASPcore_WebAPP.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ACER\Downloads\WEB-main\WEB-main\ASPcore_WebAPP\obj\Debug\net8.0\staticwebassets\msbuild.ASPcore_WebAPP.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\ACER\Downloads\WEB-main\WEB-main\ASPcore_WebAPP\obj\Debug\net8.0\staticwebassets\msbuild.build.ASPcore_WebAPP.props
+C:\Users\ACER\Downloads\WEB-main\WEB-main\ASPcore_WebAPP\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ASPcore_WebAPP.props
+C:\Users\ACER\Downloads\WEB-main\WEB-main\ASPcore_WebAPP\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ASPcore_WebAPP.props
+C:\Users\ACER\Downloads\WEB-main\WEB-main\ASPcore_WebAPP\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ACER\Downloads\WEB-main\WEB-main\ASPcore_WebAPP\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\ACER\Downloads\WEB-main\WEB-main\ASPcore_WebAPP\obj\Debug\net8.0\ASPcore_.EBE2A209.Up2Date
+C:\Users\ACER\Downloads\WEB-main\WEB-main\ASPcore_WebAPP\obj\Debug\net8.0\ASPcore_WebAPP.dll
+C:\Users\ACER\Downloads\WEB-main\WEB-main\ASPcore_WebAPP\obj\Debug\net8.0\refint\ASPcore_WebAPP.dll
+C:\Users\ACER\Downloads\WEB-main\WEB-main\ASPcore_WebAPP\obj\Debug\net8.0\ASPcore_WebAPP.pdb
+C:\Users\ACER\Downloads\WEB-main\WEB-main\ASPcore_WebAPP\obj\Debug\net8.0\ASPcore_WebAPP.genruntimeconfig.cache
+C:\Users\ACER\Downloads\WEB-main\WEB-main\ASPcore_WebAPP\obj\Debug\net8.0\ref\ASPcore_WebAPP.dll

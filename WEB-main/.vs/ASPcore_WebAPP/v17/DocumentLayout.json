@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\Downloads\\WEB-main\\WEB-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51383C38-F2B5-4713-96B2-BCA31B3BB259}|ASPcore_WebAPP\\ASPcore_WebAPP.csproj|c:\\users\\acer\\downloads\\web-main\\web-main\\aspcore_webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51383C38-F2B5-4713-96B2-BCA31B3BB259}|ASPcore_WebAPP\\ASPcore_WebAPP.csproj|solutionrelative:aspcore_webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51383C38-F2B5-4713-96B2-BCA31B3BB259}|ASPcore_WebAPP\\ASPcore_WebAPP.csproj|c:\\users\\acer\\downloads\\web-main\\web-main\\aspcore_webapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51383C38-F2B5-4713-96B2-BCA31B3BB259}|ASPcore_WebAPP\\ASPcore_WebAPP.csproj|solutionrelative:aspcore_webapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51383C38-F2B5-4713-96B2-BCA31B3BB259}|ASPcore_WebAPP\\ASPcore_WebAPP.csproj|c:\\users\\acer\\downloads\\web-main\\web-main\\aspcore_webapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51383C38-F2B5-4713-96B2-BCA31B3BB259}|ASPcore_WebAPP\\ASPcore_WebAPP.csproj|solutionrelative:aspcore_webapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51383C38-F2B5-4713-96B2-BCA31B3BB259}|ASPcore_WebAPP\\ASPcore_WebAPP.csproj|c:\\users\\acer\\downloads\\web-main\\web-main\\aspcore_webapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{51383C38-F2B5-4713-96B2-BCA31B3BB259}|ASPcore_WebAPP\\ASPcore_WebAPP.csproj|solutionrelative:aspcore_webapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51383C38-F2B5-4713-96B2-BCA31B3BB259}|ASPcore_WebAPP\\ASPcore_WebAPP.csproj|c:\\users\\acer\\downloads\\web-main\\web-main\\aspcore_webapp\\controllers\\insertcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51383C38-F2B5-4713-96B2-BCA31B3BB259}|ASPcore_WebAPP\\ASPcore_WebAPP.csproj|solutionrelative:aspcore_webapp\\controllers\\insertcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51383C38-F2B5-4713-96B2-BCA31B3BB259}|ASPcore_WebAPP\\ASPcore_WebAPP.csproj|c:\\users\\acer\\downloads\\web-main\\web-main\\aspcore_webapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51383C38-F2B5-4713-96B2-BCA31B3BB259}|ASPcore_WebAPP\\ASPcore_WebAPP.csproj|solutionrelative:aspcore_webapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51383C38-F2B5-4713-96B2-BCA31B3BB259}|ASPcore_WebAPP\\ASPcore_WebAPP.csproj|c:\\users\\acer\\downloads\\web-main\\web-main\\aspcore_webapp\\controllers\\all_methodscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51383C38-F2B5-4713-96B2-BCA31B3BB259}|ASPcore_WebAPP\\ASPcore_WebAPP.csproj|solutionrelative:aspcore_webapp\\controllers\\all_methodscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51383C38-F2B5-4713-96B2-BCA31B3BB259}|ASPcore_WebAPP\\ASPcore_WebAPP.csproj|c:\\users\\acer\\downloads\\web-main\\web-main\\aspcore_webapp\\views\\all_methods\\editpost.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51383C38-F2B5-4713-96B2-BCA31B3BB259}|ASPcore_WebAPP\\ASPcore_WebAPP.csproj|solutionrelative:aspcore_webapp\\views\\all_methods\\editpost.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51383C38-F2B5-4713-96B2-BCA31B3BB259}|ASPcore_WebAPP\\ASPcore_WebAPP.csproj|c:\\users\\acer\\downloads\\web-main\\web-main\\aspcore_webapp\\views\\all_methods\\displayall_pageload.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51383C38-F2B5-4713-96B2-BCA31B3BB259}|ASPcore_WebAPP\\ASPcore_WebAPP.csproj|solutionrelative:aspcore_webapp\\views\\all_methods\\displayall_pageload.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51383C38-F2B5-4713-96B2-BCA31B3BB259}|ASPcore_WebAPP\\ASPcore_WebAPP.csproj|c:\\users\\acer\\downloads\\web-main\\web-main\\aspcore_webapp\\views\\all_methods\\detailstab.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51383C38-F2B5-4713-96B2-BCA31B3BB259}|ASPcore_WebAPP\\ASPcore_WebAPP.csproj|solutionrelative:aspcore_webapp\\views\\all_methods\\detailstab.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InsertController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\WEB-main\\WEB-main\\ASPcore_WebAPP\\Controllers\\InsertController.cs",
+              "RelativeDocumentMoniker": "ASPcore_WebAPP\\Controllers\\InsertController.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\WEB-main\\WEB-main\\ASPcore_WebAPP\\Controllers\\InsertController.cs",
+              "RelativeToolTip": "ASPcore_WebAPP\\Controllers\\InsertController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T13:36:00.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\WEB-main\\WEB-main\\ASPcore_WebAPP\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ASPcore_WebAPP\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\WEB-main\\WEB-main\\ASPcore_WebAPP\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ASPcore_WebAPP\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T13:35:55.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\WEB-main\\WEB-main\\ASPcore_WebAPP\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ASPcore_WebAPP\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\WEB-main\\WEB-main\\ASPcore_WebAPP\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ASPcore_WebAPP\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-22T13:35:05.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\WEB-main\\WEB-main\\ASPcore_WebAPP\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ASPcore_WebAPP\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\WEB-main\\WEB-main\\ASPcore_WebAPP\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ASPcore_WebAPP\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-22T13:35:03.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\WEB-main\\WEB-main\\ASPcore_WebAPP\\appsettings.json",
+              "RelativeDocumentMoniker": "ASPcore_WebAPP\\appsettings.json",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\WEB-main\\WEB-main\\ASPcore_WebAPP\\appsettings.json",
+              "RelativeToolTip": "ASPcore_WebAPP\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-22T13:34:42.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\WEB-main\\WEB-main\\ASPcore_WebAPP\\Program.cs",
+              "RelativeDocumentMoniker": "ASPcore_WebAPP\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\WEB-main\\WEB-main\\ASPcore_WebAPP\\Program.cs",
+              "RelativeToolTip": "ASPcore_WebAPP\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T13:34:35.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "All_MethodsController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\WEB-main\\WEB-main\\ASPcore_WebAPP\\Controllers\\All_MethodsController.cs",
+              "RelativeDocumentMoniker": "ASPcore_WebAPP\\Controllers\\All_MethodsController.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\WEB-main\\WEB-main\\ASPcore_WebAPP\\Controllers\\All_MethodsController.cs",
+              "RelativeToolTip": "ASPcore_WebAPP\\Controllers\\All_MethodsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T22:02:37.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Detailstab.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\WEB-main\\WEB-main\\ASPcore_WebAPP\\Views\\All_Methods\\Detailstab.cshtml",
+              "RelativeDocumentMoniker": "ASPcore_WebAPP\\Views\\All_Methods\\Detailstab.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\WEB-main\\WEB-main\\ASPcore_WebAPP\\Views\\All_Methods\\Detailstab.cshtml",
+              "RelativeToolTip": "ASPcore_WebAPP\\Views\\All_Methods\\Detailstab.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-18T22:44:07.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DisplayAll_PageLoad.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\WEB-main\\WEB-main\\ASPcore_WebAPP\\Views\\All_Methods\\DisplayAll_PageLoad.cshtml",
+              "RelativeDocumentMoniker": "ASPcore_WebAPP\\Views\\All_Methods\\DisplayAll_PageLoad.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\WEB-main\\WEB-main\\ASPcore_WebAPP\\Views\\All_Methods\\DisplayAll_PageLoad.cshtml",
+              "RelativeToolTip": "ASPcore_WebAPP\\Views\\All_Methods\\DisplayAll_PageLoad.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-18T22:16:15.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EditPost.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\WEB-main\\WEB-main\\ASPcore_WebAPP\\Views\\All_Methods\\EditPost.cshtml",
+              "RelativeDocumentMoniker": "ASPcore_WebAPP\\Views\\All_Methods\\EditPost.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\WEB-main\\WEB-main\\ASPcore_WebAPP\\Views\\All_Methods\\EditPost.cshtml",
+              "RelativeToolTip": "ASPcore_WebAPP\\Views\\All_Methods\\EditPost.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-18T21:45:29.355Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

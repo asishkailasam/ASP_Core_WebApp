@@ -1,0 +1,16 @@
+﻿@model ASPcore_WebAPP.Models.Employee
+
+<form asp-action="Index_click" method="post">
+    <p>Employee Name</p>
+    <input type="text" asp-for="Name" />
+
+    <p>Employee Address</p>
+    <input type="text" asp-for="Address" />
+
+    <p>Employee Salary</p>
+    <input type="text" asp-for="Salary" />
+
+    <p>
+        <input type="submit" value="Insert" />
+    </p>
+</form>

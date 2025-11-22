@@ -1,0 +1,25 @@
+﻿@model ASPcore_WebAPP.Models.Employee
+
+<h2>Display Employee Details</h2>
+<hr />
+
+<p>
+    <strong>ID:</strong> @Model.Id
+</p>
+<p>
+    <strong>Name:</strong> @Model.Name
+</p>
+<p>
+    <strong>Address:</strong> @Model.Address
+</p>
+<p>
+    <strong>Salary:</strong> @Model.Salary
+</p>
+
+<form action="@Url.Action("EditPost", "All_Methods", new { id = Model.Id })" method="post">
+    <input type="submit" value="Edit" />
+</form>
+
+<p>
+    @Html.ActionLink("Back to List", "DisplayAll_PageLoad", "All_Methods")
+</p>

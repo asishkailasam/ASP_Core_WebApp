@@ -1,0 +1,59 @@
+﻿@model IEnumerable<ASPcore_WebAPP.Models.Employee>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Employee List</title>
+</head>
+<body>
+    <h2>Employee List</h2>
+
+    <form asp-controller="Insert" asp-action="Insert_PageLoad" method="post">
+        <input type="submit" value="Add New Employee" />
+    </form>
+
+    <br />
+
+    <table border="1">
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Address</th>
+            <th>Salary</th>
+            <th>Details</th>
+            <th>Delete</th>
+            <th>Edit</th>
+        </tr>
+
+        @foreach (var emp in Model)
+        {
+            <tr>
+                <td>@emp.Id</td>
+                <td>@emp.Name</td>
+                <td>@emp.Address</td>
+                <td>@emp.Salary</td>
+
+                <td>
+                    @using (Html.BeginForm("Detailstab", "All_Methods", new { id = emp.Id }, FormMethod.Post))
+                    {
+                        <input type="submit" value="Details" />
+                    }
+                </td>
+                <td>
+                    @using (Html.BeginForm("Delete", "All_Methods", new { id = emp.Id }, FormMethod.Post))
+                    {
+                        <input type="submit" value="Delete" />
+                    }
+                </td>
+                <td>
+                    @using (Html.BeginForm("EditPost", "All_Methods", new { id = emp.Id }, FormMethod.Post))
+                    {
+                        <input type="submit" value="Edit" />
+                    }
+                </td>
+            </tr>
+        }
+    </table>
+</body>
+</html>
